@@ -5,7 +5,7 @@
 + 屏幕
 + qmk
 
-qmk固件支持via，固件代码在master分支，meetlab/kafkasplit
+本键盘为有线分体键盘，主控为rp2040，qmk固件支持via，固件代码在master分支，meetlab/kafkasplit
 
 ![kafkasplit](https://i.imgur.com/fqxZGeHh.jpg)
 ![kafkasplit](https://imgur.com/FH3ybuTh.jpg)
